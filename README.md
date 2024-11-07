@@ -19,7 +19,7 @@
 설명: 누구나 참여할 수 있는 플랫폼, 누구나 디자이너가될 수 있는 플랫폼
 
 로그인 화면
-![image](https://github.com/user-attachments/assets/104e48c0-dc45-4180-91af-5c1b8bb70999)
+<img src="https://github.com/user-attachments/assets/104e48c0-dc45-4180-91af-5c1b8bb70999">
 
 회원가입 화면
 ![image](https://github.com/user-attachments/assets/ff37ffc8-366d-4845-abe6-cb2a5e5d914d)
