@@ -16,9 +16,11 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-설명: 누구나 참여할 수 있는 플랫폼, 누구나 디자이너가될 수 있는 플랫폼
+*설명*: 누구나 참여할 수 있는 플랫폼, 누구나 디자이너가될 수 있는 플랫폼
 
-|제목|내용|설명|
+화면구성🪧
+---
+|로그인|내용|설명|
 |------|---|---|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
