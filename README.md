@@ -20,14 +20,14 @@
 
 화면구성🪧
 ---
+
 |로그인|내용|설명|
 |------|---|---|
-|테스트1|테스트2|테스트3|
+|<img src="https://github.com/user-attachments/assets/104e48c0-dc45-4180-91af-5c1b8bb70999">|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 
-로그인 화면
-<img src="https://github.com/user-attachments/assets/104e48c0-dc45-4180-91af-5c1b8bb70999">
+
 
 회원가입 화면
 ![image](https://github.com/user-attachments/assets/ff37ffc8-366d-4845-abe6-cb2a5e5d914d)
