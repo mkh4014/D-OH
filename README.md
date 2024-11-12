@@ -25,16 +25,25 @@
 | ------ | -------- |
 | <img src="https://github.com/user-attachments/assets/104e48c0-dc45-4180-91af-5c1b8bb70999"> | <img src="https://github.com/user-attachments/assets/ff37ffc8-366d-4845-abe6-cb2a5e5d914d"> |
 
-| 회원가입 (중복된 닉네임, 아이디 검증) | 회원가입 |
+| 회원가입 (중복된 닉네임, 아이디 검증) | 회원가입 (중복된 닉네임, 아이디 검증) |
 | -------------------------------------- | -------- |
 | <img src="https://github.com/user-attachments/assets/b87e6d81-09a3-4c81-92fa-374217143e38"> | <img src="https://github.com/user-attachments/assets/d84b575f-c5a5-4669-89b7-6fee63e72811"> |
 
-| 회원가입 (기타 화면) | 이메일 인증 기능 구현 |
+| 회원가입 (중복된 닉네임, 아이디 검증) | 이메일 인증 기능 구현 |
 | ------------------- | -------------------- |
 | <img src="https://github.com/user-attachments/assets/c04930ae-709f-44a3-8a9e-e817198b5db7"> | <img src="https://github.com/user-attachments/assets/47bf3c5e-711b-432e-af5d-417aed3ad47d">  |
 
 
+주요 기능🎯🔔📢🔎🧾✉️
+---
+* 로그인
+- 회원가입이 된 아이디와 비밀번호로 로그인 및 로그인 실패
 
+* 회원가입
+- 중복 된 아이디와 닉네임을 DB에서 조회
+- 중복 된 아이디와 닉네임으론 가입이 불가능(중복 시 메시지가 나옴)
+- 📨📬이메일 인증 기능 구현 : 발신 기능만 가능한 SMTP를 활용하여 인증번호를 검증
+- 서버와 클라이언트 모두 검증하여 무결성을 보장
 
 
 
