@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 
-*설명*: 누구나 참여할 수 있는 플랫폼, 누구나 디자이너가될 수 있는 플랫폼
+###설명: 누구나 참여할 수 있는 플랫폼, 누구나 디자이너가될 수 있는 플랫폼
 
 화면구성🪧
 ---
